@@ -1,7 +1,7 @@
 # cloudbuild.yaml
 
 steps:
-#install
+#installl
 - name: node:10.15.1
   entrypoint: npm
   args: ["install"]
